@@ -1,16 +1,74 @@
-## Hi there 👋
 
-<!--
-**PedroGabriiel/PedroGabriiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Eu sou o Pedro Gabriel Dos Santos Barros</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Estudante de Ciência da Computação <br>
+  🧠 Desenvolvedor Back-End focado em soluções eficientes e impacto real <br>
+  📍 Passos - MG | IFSULDEMINAS - Campus Passos
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Sobre Mim
+
+Sou um estudante de **Ciência da Computação** apaixonado por desenvolvimento back-end e tecnologia que transforma. Atualmente, me dedico a projetos acadêmicos e pessoais que envolvem lógica, estrutura de dados e construção de sistemas com propósito.
+
+Meu objetivo é sempre aliar **clareza, desempenho e simplicidade** nas soluções que crio. Acredito que o aprendizado contínuo é a base para evoluir como desenvolvedor — e como pessoa.
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+**💻 Linguagens:**  
+`Python` · `Java` · `C` · `SQL`
+
+**🗃️ Banco de Dados:**  
+`MySQL` · `SQLite`
+
+**🎨 Front-End (complementar):**  
+`HTML` · `CSS` · `Bootstrap` · `JavaScript`
+
+**⚙️ Ferramentas e IDEs:**  
+`Git` · `GitHub` · `VSCode`
+
+Essa base me permite ter uma visão **full cycle** do desenvolvimento de aplicações, desde o banco de dados até a entrega ao usuário.
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS)**  
+📚 *Bacharelado em Ciência da Computação* – 2023 ~ 2026 (em andamento)  
+📜 *Técnico em Informática* – 2020 ~ 2022 (concluído)
+
+---
+
+## 🚀 Projetos em Destaque
+
+
+
+---
+
+## 📈 GitHub Stats
+
+
+
+---
+
+## 🔎 Interesses & Objetivos
+
+Atualmente estou em busca de **oportunidades para aplicar meus conhecimentos em projetos reais**, trabalhar em times que valorizam inovação e contribuir ativamente com o desenvolvimento de soluções que fazem a diferença.
+
+Sou movido por desafios, colaborativo por natureza e determinado a crescer como desenvolvedor Back-End.
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 🌐 LinkedIn: [linkedin.com/in/pedro-gabriel-dsb](https://www.linkedin.com/in/pedro-gabriel-dsb/)
+- 📧 Email: pedro.gabriel@exemplo.com
+- 💼 Portfólio: *(em construção)*
+
+---
+
+> “A tecnologia move o mundo, e o conhecimento é o combustível.” 🚀
