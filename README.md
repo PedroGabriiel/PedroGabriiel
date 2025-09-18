@@ -46,7 +46,6 @@ Ferramentas e IDEs:
   <img src="https://github-readme-stats.vercel.app/api?username=PedroGabriiel&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGabriiel&layout=compact&theme=radical&hide_border=true" />
 </div>
-
 ---
 
 ## Interesses & Objetivos
