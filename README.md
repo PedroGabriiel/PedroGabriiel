@@ -31,8 +31,6 @@ Meu objetivo é sempre aliar **clareza, desempenho e simplicidade** nas soluçõ
 Ferramentas e IDEs: 
 `Git` · `GitHub` · `VSCode`
 
-Essa base me permite ter uma visão **full cycle** do desenvolvimento de aplicações, desde o banco de dados até a entrega ao usuário.
-
 ---
 
 ##  Formação Acadêmica
