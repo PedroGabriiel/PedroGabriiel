@@ -42,9 +42,10 @@ Ferramentas e IDEs:
 ---
 
 ## GitHub Stats
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrieltbernardes&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieltbernardes&layout=compact&theme=radical&hide_border=true" />
+</div>
 ---
 
 ## Interesses & Objetivos
