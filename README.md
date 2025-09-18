@@ -3,7 +3,7 @@
 
 <p align="center">
    Estudante de Ciência da Computação <br>
-   Desenvolvedor Back-End focado em soluções eficientes e impacto real <br>
+   Desenvolvedor Back-End <br>
    Passos - MG | IFSULDEMINAS - Campus Passos
 </p>
 
