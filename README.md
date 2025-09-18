@@ -19,16 +19,16 @@ Meu objetivo é sempre aliar **clareza, desempenho e simplicidade** nas soluçõ
 
 ##  Tecnologias & Ferramentas
 
-** Linguagens:**  
+ Linguagens:  
 `Python` · `Java` · `C` · `SQL`
 
-** Banco de Dados:**  
+ Banco de Dados: 
 `MySQL` · `SQLite`
 
-** Front-End (complementar):**  
+ Front-End (complementar):  
 `HTML` · `CSS` · `Bootstrap` · `JavaScript`
 
-** Ferramentas e IDEs:**  
+Ferramentas e IDEs: 
 `Git` · `GitHub` · `VSCode`
 
 Essa base me permite ter uma visão **full cycle** do desenvolvimento de aplicações, desde o banco de dados até a entrega ao usuário.
