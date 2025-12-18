@@ -58,5 +58,5 @@ Sou movido por desafios, colaborativo por natureza e determinado a crescer como 
 
 ##  Contatos
 
-- LinkedIn: [linkedin.com/in/pedro-gabriel-dsb](https://www.linkedin.com/in/pedro-gabriel-dsb/)
-- Email: pedro.gabriel@exemplo.com
+- LinkedIn: https://www.linkedin.com/in/pedro-gabriel-dos-santos-barros-740b25218/
+- Email: pedrogabriiel2004@gmail.com
