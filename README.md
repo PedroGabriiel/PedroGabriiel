@@ -11,9 +11,7 @@
 
 ##  Sobre Mim
 
-Sou um estudante de **Ciência da Computação** apaixonado por desenvolvimento back-end e tecnologia que transforma. Atualmente, me dedico a projetos acadêmicos e pessoais que envolvem lógica, estrutura de dados e construção de sistemas com propósito.
-
-Meu objetivo é sempre aliar **clareza, desempenho e simplicidade** nas soluções que crio. Acredito que o aprendizado contínuo é a base para evoluir como desenvolvedor — e como pessoa.
+Sou um estudante de **Ciência da Computação** apaixonado por desenvolvimento back-end e tecnologia. Atualmente, me dedico a projetos acadêmicos e pessoais que envolvem lógica, estrutura de dados e construção de sistemas para soluções cotidianas.
 
 ---
 
@@ -50,11 +48,8 @@ Ferramentas e IDEs:
 
 ## Interesses & Objetivos
 
-Atualmente estou em busca de **oportunidades para aplicar meus conhecimentos em projetos reais**, trabalhar em times que valorizam inovação e contribuir ativamente com o desenvolvimento de soluções que fazem a diferença.
+Atualmente estou em busca de **oportunidades para aplicar meus conhecimentos em projetos reais**.
 
-Sou movido por desafios, colaborativo por natureza e determinado a crescer como desenvolvedor Back-End.
-
----
 
 ##  Contatos
 
